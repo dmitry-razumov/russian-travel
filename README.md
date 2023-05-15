@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-[**Russian travel**](https://dmitry-razumov/russian-travel/index.html) (ссылка для просмотра)
+[**Russian travel**]([https://dmitry-razumov/russian-travel/index.html](https://dmitry-razumov.github.io/russian-travel/)) (ссылка для просмотра)
 
 ## Описание проекта
 Проект представляет собой адаптивный одностраничный сайт.
