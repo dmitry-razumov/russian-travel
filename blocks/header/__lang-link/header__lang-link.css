@@ -14,7 +14,7 @@
   }
 }
 
-.footer__copyright:hover {
+.header__lang-link:hover {
   opacity: .8;
   cursor: pointer;
 }
