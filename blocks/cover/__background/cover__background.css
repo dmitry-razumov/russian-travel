@@ -1,9 +1,0 @@
-.cover__background {
-  padding-bottom: calc(740/1280*100%);
-}
-
-@media screen and (max-width: 1279px) {
-  .cover__background {
-    padding-bottom: calc(640/1024*100%);
-  }
-}
